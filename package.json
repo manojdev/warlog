@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/manojdev/warlog/issues"
   },
-  "homepage": "https://github.com/manojdev/warlog#readme"
+  "homepage": "https://github.com/manojdev/warlog#readme",
+  "dependencies": {
+    "clash-of-clans-api": "^0.4.0"
+  }
 }
